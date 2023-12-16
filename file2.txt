@@ -1,1 +1,2 @@
 Hello world file2.txt
+New line
